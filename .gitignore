@@ -3,7 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=node,visualstudiocode
 
 # Personnal
-bot_*/config.json
+/*/config.json
 
 ### Node ###
 # Logs
